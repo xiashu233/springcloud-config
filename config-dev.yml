@@ -1,1 +1,2 @@
-config-dev.yml的具体配置
+config:
+  info: "master branch,springcloud-config/config-dev.yml version=1"
